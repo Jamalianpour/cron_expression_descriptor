@@ -1,3 +1,4 @@
+# Cron Expression Descriptor
 This is a simple Dart library for describe cron expressions. currently it's support simple 5 segment cron expression.
 
       ┌───────────── minute (0 - 59)
